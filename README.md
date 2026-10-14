@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@thehunter-ai"><img src="https://img.shields.io/badge/YouTube-The%20Hunter%20AI-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Location-Bihar%2C%20India-0A66C2?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mantosh-hunterai&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
